@@ -1,0 +1,12 @@
+.list-view{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list-card{
+    min-width: 300px;
+    max-width: 400px;
+    margin: 10px;
+}
